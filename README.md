@@ -6,6 +6,7 @@ Este repositorio tiene como estructura dos directorios **backends** y **frontend
  en distintas tecnologías orientadas a la agilidad, por ejemplo: _SpringBoot (java, groovy), node.js, Python, etc_. Teniendo como enfoque 
  secundario pero no menos importante temas de arquitectura 'moderna' como estándares de API REST, seguridad, documentación API, HATEOAS, etc.
 
- * **Frontends**: Acá lo principal es aprender de frameworks JS y manejo de UX modernas, por ejemplo: _Reactjs, Angularjs, etc._.
- Otro tema importante es aprender como se consumen API REST (json/xml), seguridad, etc, vale decir evolucionar de stacks tradicionales Java.
+ * **Frontends**: Acá lo principal es aprender desarrollo en stacks frontend, todo lo que tiene relación con scaffolding, dependency managers, build systems, como por ejemplo:
+ _Yo, Bbower, Gulp_, por mencionar algunos de los mas conocidos. También específicamente de frameworks MV* JS, por ejemplo: _Backbone.js, Emeber.js, React.js, Angular.js, etc._.
+ Para resumir evolucionar de stacks tradicionales Java.
 
