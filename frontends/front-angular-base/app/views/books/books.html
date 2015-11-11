@@ -1,0 +1,20 @@
+<h3>Lista de libros</h3>
+<table>
+<tr>
+	<th>
+		Titulo
+	</th>
+	<th>
+		Disponible
+	</th>
+</tr>
+<tr ng-repeat="book in books" style="text-align: center;">
+	<td>
+		{{book.title}}
+	</td>
+	<td>
+		{{book.available}}
+	</td>
+</tr>
+</table>
+<br/>
